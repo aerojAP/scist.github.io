@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SCIST , science for student
 
 You can use the [editor on GitHub](https://github.com/scist/scist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
